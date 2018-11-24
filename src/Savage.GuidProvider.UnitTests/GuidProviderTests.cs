@@ -1,6 +1,6 @@
 ﻿using Xunit;
 
-namespace Savage.GuidProvider.UnitTests
+namespace Savage.Providers
 {
     public class GuidProviderTests
     {

@@ -17,6 +17,7 @@
     <AssemblyVersion></AssemblyVersion>
     <FileVersion></FileVersion>
     <InformationalVersion></InformationalVersion>
+    <RootNamespace>Savage.Providers</RootNamespace>
   </PropertyGroup>
 
 </Project>

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Savage.GuidProvider
+namespace Savage.Providers
 {
     public interface IGuidProvider
     {
