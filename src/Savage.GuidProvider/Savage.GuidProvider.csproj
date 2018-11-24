@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0;net45;net46;</TargetFramework>
+    <Title>GuidProvider</Title>
+    <Authors>Alan Savage</Authors>
+    <Description>Library for working with Guids which helps with testing.</Description>
+    <Copyright>© 2018 Alan Savage</Copyright>
+    <PackageProjectUrl>https://github.com/alansav/guid_provider</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alansav/guid_provider</RepositoryUrl>
+    <PackageTags>Guid;</PackageTags>
+    <PackageId>GuidProvider</PackageId>
+    <Product>Savage.GuidProvider</Product>
+    <!-- Version elements are intentionally empty as they are provided by the build process-->
+    <Version></Version>
+    <PackageVersion></PackageVersion>
+    <AssemblyVersion></AssemblyVersion>
+    <FileVersion></FileVersion>
+    <InformationalVersion></InformationalVersion>
+  </PropertyGroup>
+
+</Project>
